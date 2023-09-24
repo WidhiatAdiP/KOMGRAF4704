@@ -1,0 +1,2 @@
+# KOMGRAF4704
+ Komputer Grafik - A11.2020.13128
